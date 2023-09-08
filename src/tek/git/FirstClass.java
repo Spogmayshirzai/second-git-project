@@ -3,7 +3,7 @@ package tek.git;
 public class FirstClass {
 	
 	public static void main(String[] args) {
-		System.out.println("Hello world");
+		System.out.println("Hello world!!");
 		
 		//what should I do to push this project to git hub repository or step by step to push this project to a remote repository?
 				
